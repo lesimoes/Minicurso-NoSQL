@@ -27,4 +27,5 @@ Dentro de cada parte os arquivos estão divididos em seções seguindo a nomecla
 
 ### Licença
 
-É tudo nosso meu consagrado(a), pode usar a vontade.
+
+É tudo nosso meu consagrado(a), pode usar a vontade. 😉
